@@ -10,4 +10,7 @@ echo "\033[0;34m"'                                           '"\033[0m"
 sudo apt-get update
 sudo apt-get install -y git
 sudo apt-get install -y zsh
-zsh 2
+curl -O http://nodejs.org/dist/v0.10.24/node-v0.10.24-linux-x64.tar.gz
+tar -zxvf node-v0.10.24-linux-x64.tar.gz
+
+
