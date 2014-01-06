@@ -11,11 +11,6 @@ sudo apt-get update
 
 sudo apt-get install -y zsh
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
-chsh -s /bin/zsh
-
-sudo apt-get install -y rake
-
-sh -c "`curl -fsSL https://raw.github.com/skwp/dotfiles/master/install.sh`"
 
 sudo apt-get install -y vim
 sudo apt-get install -y git
