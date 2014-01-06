@@ -8,9 +8,6 @@ echo "\033[0;34m"'                                           '"\033[0m"
 
 
 sudo apt-get update
-sudo apt-get install zsh
-sudo apt-get install -y vim
 sudo apt-get install -y git
-sudo apt-get install -y nodejs
-sudo apt-get install -y npm
-sudo apt-get install -y mongodb
+sudo apt-get install -y zsh
+zsh 2
