@@ -17,8 +17,8 @@ sudo apt-get -y install mongodb
 curl -O http://nodejs.org/dist/v0.10.24/node-v0.10.24-linux-x64.tar.gz
 tar -zxvf node-v0.10.24-linux-x64.tar.gz
 
-echo "\n# chsh override\n" >> ~/.bashrc
-echo "zsh\n" >> ~/.bashrc
+echo "# chsh override" >> ~/.bashrc
+echo "zsh" >> ~/.bashrc
 
 curl https://raw.github.com/braungoodson/ec2-ubuntu-js-stack/master/.zshrc >> ~/.zshrc
 
