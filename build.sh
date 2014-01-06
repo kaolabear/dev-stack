@@ -9,6 +9,7 @@ echo "\033[0;34m"'                                           '"\033[0m"
 
 sudo apt-get update
 sudo apt-get install -y make
+sudo apt-get install -y g++
 sudo apt-get install -y git
 sudo apt-get install -y zsh
 sudo apt-get install -y mongodb
