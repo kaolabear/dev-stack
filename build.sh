@@ -20,8 +20,6 @@ tar -zxvf node-v0.10.24-linux-x64.tar.gz
 echo "\n# chsh override\n" >> ~/.bashrc
 echo "zsh\n" >> ~/.bashrc
 
-curl https://raw.github.com/braungoodson/ec2-ubuntu-js-stack/master/.zshrc >> ~/.zshrc
-
 echo ""
 echo "\033[0;34m"
 echo " TODO:";
