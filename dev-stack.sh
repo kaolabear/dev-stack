@@ -20,7 +20,7 @@ tar -zxvf node-v0.10.24-linux-x64.tar.gz
 echo "# chsh override" >> ~/.bashrc
 echo "zsh" >> ~/.bashrc
 
-curl https://raw.github.com/braungoodson/ec2-ubuntu-js-stack/master/.zshrc >> ~/.zshrc
+curl https://raw.github.com/braungoodson/dev-stack/master/.zshrc >> ~/.zshrc
 
 echo "\033[0;34m"'      .___                              __                 __    '"\033[0m"
 echo "\033[0;34m"'    __| _/_______  __           _______/  |______    ____ |  | __'"\033[0m"
